@@ -24,7 +24,7 @@ No necesitas herramientas adicionales para ejecutar este proyecto. Solo asegúra
 
 1. Clona el repositorio en tu máquina local:
     ```bash
-    git clone 
+    git clone https://github.com/yulychoqueramos/challenge-amigo-secreto.git
     ```
 
 2. Navega al directorio del proyecto:
